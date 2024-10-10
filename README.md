@@ -3,12 +3,12 @@
 ## Who am I? 
 Full stack software engineer with over 20 years experience in multiple industries (education, healthcare, investment) and multiple technologies (C#, React, TypeScript, SQL Server, etc.)
 
-My career goals:
+### My career goals:
 1. Fight the bad code: my passion is rehabilitating legacy code
 2. Leave a trail: communication is the most important and most overlooked software engineering trait
 3. Lift up my team: be a fountain, not a drain; show up and be kind; in our industry, mental health is often neglected
 
-I am an advocate for:
+### I am an advocate for:
 * sustainable technical practices including test-driven development (TDD), static code analysis, SOLID principles of design, and paying attention to code smells.
 * DevOps and process automation. How we create and deliver software is just as important as what we deliver.
 * mentoring new developers. Starting a new position and learning how to grow is a challenge. Mentoring other developers is always a wise investment

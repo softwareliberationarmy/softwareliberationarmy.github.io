@@ -1,5 +1,4 @@
-# Kerry Patrick
-Welcome to my page
+# Welcome
 
 ## Who am I? 
 Full stack software engineer with over 20 years experience in multiple industries (education, healthcare, investment) and multiple technologies (C#, React, TypeScript, SQL Server, etc.)

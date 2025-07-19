@@ -8,10 +8,10 @@ Full stack software engineer with over 20 years experience in multiple industrie
 3. Support my team: be a fountain, not a drain; show up and be kind; do the difficult things to build relationships; reach out with empathy; advocate for developer mental health
 
 ## My How
-* sustainable technical practices including test-driven development (TDD), static code analysis, SOLID principles of design, and paying attention to code smells.
+* Sustainable technical practices including test-driven development (TDD), static code analysis, SOLID principles of design, and paying attention to code smells.
 * DevOps and process automation. How we create and deliver software is just as important as what we deliver.
-* mentoring new developers. Starting a new position and learning how to grow is a challenge. Mentoring other developers is always a wise investment.
-* judicious usage of AI in our software process to extend our grasp and make us more productive in the short term and in the long run
+* Mentoring new developers. Starting a new position and learning how to grow is a challenge. Mentoring other developers is always a wise investment.
+* Judicious usage of AI in our software process to extend our grasp and make us more productive today and tomorrow
 
 ## My Joy
 * Test-driven development - it's not a set of steps, it's a mindset

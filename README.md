@@ -27,5 +27,5 @@ Full stack software engineer with over 20 years experience in multiple industrie
 : I am very interested in code as data, and using visualizations to more quickly understand a new codebase. This was another TDD experiment based on a git repo visualization project I had found on the GitHub research site. The project is written in C# and generates an SVG file showing the relative size and file extensions of the files in a git repo. My intention was to also be able to visualize which files were most recently modified, and which files have been most often modified.
 
 ## My Links
-[LinkedIn](https://www.linkedin.com/in/kerry-patrick-7962735)
+[LinkedIn](https://www.linkedin.com/in/kerry-patrick-7962735)\
 [GitHub](https://github.com/softwareliberationarmy)
